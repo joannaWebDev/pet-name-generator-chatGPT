@@ -31,6 +31,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Preview
 <img src="./public/preview.png" alt="Preview" width="200" height="200" />
 
-## Live on [Vercel](https://pet-name-generator-chat-izo7drjfq-joannas.vercel.app/)
+## Live on [Vercel](https://pet-name-generator-chat-6a11yk51y-joannas.vercel.app/)
 
 
