@@ -32,5 +32,16 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 <img src="./public/preview.png" alt="Preview" width="200" height="200" />
 
 ## Live on [Vercel](https://pet-name-generator-chat-6a11yk51y-joannas.vercel.app/)
+However
+```
+{
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "insufficient_quota"
+    }
+}
+```
 
 
